@@ -1,9 +1,9 @@
 // https://github.com/mattboldt/typed.js/
 
 var typed = new Typed(".auto-input", {
-    strings: ["Moi", "Toi", "Vous"],
-    typeSpeed: 160,
-    backSpeed: 160,
+    strings: ["Trouver des tournois", "Recrute des joueur", "Rejoins une équipe", "Deviens le meilleur "],
+    typeSpeed: 140,
+    backSpeed: 180,
     loop: true,
-    cursorChar: ' 🦄 ',
+    cursorChar: ' 🦊 ',
 })
